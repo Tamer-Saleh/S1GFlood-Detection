@@ -47,6 +47,20 @@ Flooding is a severe natural disaster that can cause extensive damage to people,
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Zambia-GT.gif" width="266" height="200" />
 </div>
 
+<div align="center">
+| Image Ref. |      Site     | S1 Post Date |    GT Date   |
+| ---------- | ------------- | ------------ | ------------ |
+|   Img (1)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (2)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (3)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (4)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (5)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (6)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (7)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (8)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+|   Img (9)  |   Bangladesh  |  12-07-2017  |  12-07-2017  |
+</div>
+
 ## :speech_balloon: Network Architecture
 An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The node $Xi$ features denotes a convolutional block as shown in (b). The feature differential enhancement FDE is described in (c). (d) is the ensemble spatial-channel attention fusion ESCAF.
 ![image-20230201153142126](./img/overall.png)
