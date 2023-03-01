@@ -34,6 +34,7 @@ Flooding is a severe natural disaster that can cause extensive damage to people,
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Wuhan-Img.gif" width="200" height="300" />
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Redrivernorth-Img.gif" width="200" height="300" />
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Sudan-Img.gif" width="200" height="300" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Florence-Img.gif" width="200" height="300" />
 </div>
 
  <div align="center">
@@ -41,6 +42,7 @@ Flooding is a severe natural disaster that can cause extensive damage to people,
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Wuhan-GT.gif" width="200" height="300" />
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Redrivernorth-GT.gif" width="200" height="300" />
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Sudan-GT.gif" width="200" height="300" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Florence-GT.gif" width="200" height="300" />
 </div>
 
 ## :speech_balloon: Network Architecture
