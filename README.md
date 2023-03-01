@@ -17,8 +17,8 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions located in Egypt, including New Mansoura, El Galala City, New Cairo, and New Thebes. The figure below shows the building changes in New Mansoura City and New Thebes. Our image data capture time varies from 2017 to 2022. The images feature seasonal changes and different lighting changes in our new dataset, which can help develop effective methods that can mitigate the impact of unrelated changes on real changes.
 
  
-<p><img align="left" alt="gif" src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Image%20Bangladesh%20July%202017.gif" width="200" height="200" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Mask%20Bangladesh%20July%202017.gif" width="200" height="200" /></p>
+<p>< alt="gif" src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Image%20Bangladesh%20July%202017.gif" width="200" height="200" /></p>
+<p>< alt="gif" src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Mask%20Bangladesh%20July%202017.gif" width="200" height="200" /></p>
 
 
 ## :speech_balloon: Network Architecture
