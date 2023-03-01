@@ -16,7 +16,8 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 ## :speech_balloon: S1GFloods Dataset Description 
 Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions located in Egypt, including New Mansoura, El Galala City, New Cairo, and New Thebes. The figure below shows the building changes in New Mansoura City and New Thebes. Our image data capture time varies from 2017 to 2022. The images feature seasonal changes and different lighting changes in our new dataset, which can help develop effective methods that can mitigate the impact of unrelated changes on real changes.
 
-![image-20230201153142126](./img/MansouraTiba.png)
+![image-20230201153142126](./images/Image Bangladesh July 2017.gif)
+![mask-20230201153142126](./images/Mask Bangladesh July 2017.gif)
 
 ## :speech_balloon: Network Architecture
 An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The node $Xi$ features denotes a convolutional block as shown in (b). The feature differential enhancement FDE is described in (c). (d) is the ensemble spatial-channel attention fusion ESCAF.
