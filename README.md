@@ -8,7 +8,7 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 
 
 ## Updates
-| :zap:        | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
+| :zap:         | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
 |---------------|:------------------------|
 
 
@@ -56,7 +56,7 @@ Flooding is a severe natural disaster that can cause extensive damage to people,
 
 
 ## :speech_balloon: Network Architecture
-An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The node $Xi$ features denotes a convolutional block as shown in (b). The feature differential enhancement FDE is described in (c). (d) is the ensemble spatial-channel attention fusion ESCAF.
+An overview of the proposed DAM-Net. The feature maps of the pre-and post-event image pairs are extracted through a Siamese structure and pre-trained remote sensing. 
 ![Overall](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/overall.png)
 
 
