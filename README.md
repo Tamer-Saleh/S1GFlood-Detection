@@ -67,10 +67,10 @@ An overview of the proposed DAM-Net. The feature maps of the pre-and post-event 
 ![Overall](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/overall.png)
 
 
- ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the EGY-BCD Dataset</span>
+ ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the testing set of SIGFloods Dataset</span>
  
 ### :point_right: Quantitative Results
-![image-QuantitativeResult](./img/result2.jpg)
+![image-QuantitativeResult](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/table-test.jpg)
 
 ### :point_right: Qualitative Results
 
