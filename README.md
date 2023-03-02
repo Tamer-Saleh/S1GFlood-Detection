@@ -57,7 +57,7 @@ Flooding is a severe natural disaster that can cause extensive damage to people,
 
 ## :speech_balloon: Network Architecture
 An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The node $Xi$ features denotes a convolutional block as shown in (b). The feature differential enhancement FDE is described in (c). (d) is the ensemble spatial-channel attention fusion ESCAF.
-![image-20230201153142126](./img/overall.png)
+![Overall](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/overall.png)
 
 
  ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the EGY-BCD Dataset</span>
