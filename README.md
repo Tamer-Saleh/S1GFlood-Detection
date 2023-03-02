@@ -73,8 +73,7 @@ An overview of the proposed DAM-Net. The feature maps of the pre-and post-event 
 ![image-QuantitativeResult](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/table-test.jpg)
 
 ### :point_right: Qualitative Results
-A visual comparison of flood detection results. The first two rows represent the Nebraska dataset while the last
-two row represents the Iran dataset. In each dataset, the first three images, (a), (b), and (c), represent the pre-flood image,
+A visual comparison of flood detection results in the Iran dataset. The first three images, (a), (b), and (c), represent the pre-flood image,
 post-flood image, and binary ground truth, respectively. The subsequent images show a comparison of flood detection using various
 methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM, (h) Siam-Nested-Unet, (i) ResNet50-IMP,
 (j) ResNet50-RSP, (k) Swin-T-IMP, (l) ViTAEv2-IMP, (m) Swin-T-RSP, and (n) our proposed DAM-Net method.
