@@ -74,7 +74,7 @@ An overview of the proposed DAM-Net. The feature maps of the pre-and post-event 
 
 ### :point_right: Qualitative Results
 
-![image-QualitativeResult](./img/result.jpg)
+![image-QualitativeResult](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Iran-results.png)
 
 
 ## :speech_balloon: Requirements
