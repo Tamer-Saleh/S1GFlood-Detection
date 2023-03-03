@@ -155,7 +155,7 @@ You can download our novel public S1GFloods dataset through the following link:
 ### :page_with_curl: Citing <a name="citing"></a>
 
 ```bibtex
-@ARTICLE{shimaabuilding2023,
+@ARTICLE{tamersalehdam2023,
   Author = {T. Saleh, G-S Xia, S. Holail, X. Weng, and C. Hao},
   Title = {DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers},
   Journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
