@@ -116,7 +116,8 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 
 ```
 """
-S1GFloods dataset with pixel-level binary labels；
+
+For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect the following structure: 
 ├————train
 |      ├———Pre  
 |      ├———Post
@@ -174,11 +175,12 @@ The code and datasets are released for non-commercial and research purposes only
 Appreciate the work from the following repositories:
 
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
-- [angup143/disaster_mapping](https://github.com/angup143/disaster_mapping/tree/5bab37700950bb9b5e6af9bbe41a6ab66645bf58)
+- [SNUNet-CD](https://github.com/RSCD-Lab/Siam-NestedUNet)
+- [BIT-CD](https://github.com/justchenhao/BIT_CD)
 
-
-[](https://search.asf.alaska.edu/)
-[](https://scihub.copernicus.eu/)
+## :speech_balloon: Other related links
+[ASF-Dataset](https://search.asf.alaska.edu/)
+[Sentinel-Hub](https://scihub.copernicus.eu/)
 [SNAP Toolbox](http://step.esa.int/main/download/)
 
 
