@@ -103,35 +103,6 @@ Please see `requirements.txt` for all the other requirements.
 
 
 
-
-#### Encoders <a name="encoders"></a>
-
-Below is a list of encoders used in this work and their pre-trained weights.
-
-<details>
-<summary style="margin-left: 25px;">ResNet</summary>
-<div style="margin-left: 25px;">
-
-| Encoder   |        Weights        | Params, M |
-| --------- | :-------------------: | :-------: |
-| resnet50  | imagenet / ssl / swsl |    23M    |
-| resnet101 |       imagenet        |    42M    |
-
-
-</div>
-</details>
-
-<details>
-<summary style="margin-left: 25px;">RegNet(x/y)</summary>
-<div style="margin-left: 25px;">
-
-| Encoder          | Weights  | Params, M |
-| ---------------- | :------: | :-------: |
-| timm-regnety_120 | imagenet |    49M    |
-| timm-regnety_160 | imagenet |    80M    |
-| timm-regnety_320 | imagenet |   141M    |
-
-
 </div>
 </details>
 
