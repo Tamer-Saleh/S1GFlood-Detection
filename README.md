@@ -196,7 +196,7 @@ Appreciate the work from the following repositories:
 - [SNUNet-CD](https://github.com/RSCD-Lab/Siam-NestedUNet)
 - [BIT-CD](https://github.com/justchenhao/BIT_CD)
 
-## Other related links
+## Related resources
 - [ASF-Dataset](https://search.asf.alaska.edu/)
 - [Sentinel-Hub](https://scihub.copernicus.eu/)
 - [SNAP Toolbox](http://step.esa.int/main/download/)
