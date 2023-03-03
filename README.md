@@ -15,7 +15,7 @@ The following animation shows SAR images before and after the event and a sample
 
  <div align="left">
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="500" height="350" />
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="220" height="220" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="300" height="300" />
 </div>
 
 ## :speech_balloon: S1GFloods Dataset Description 
