@@ -24,7 +24,7 @@ The following animation shows SAR images before and after the event and a sample
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="340" height="340" />
 </div>
 
-## :speech_balloon: Description
+## Description
 
 Flooding can cause extensive damage to people, ecosystems, and economies, making it a severe natural disaster. Operating ground-based equipment in flood zones is hazardous, and limited physical access to flooded areas can make it challenging to acquire information about flood extent on the ground. Accurately detecting floods and flood extent via remote sensing greatly aids in mitigating and responding to these events. Remote sensing technology, such as satellites and airborne sensors, can provide valuable information about the extent of flooding, crucial for developing appropriate response strategies and minimizing damages. In this work, we present a new open-source global-scale flood detection dataset, S1GFloods, has been compiled to aid in flood detection. The dataset includes global pairs of high-resolution Sentinel-1 SAR images covering 42 flood events between 2016 and 2022, along with ground truth maps for each pixel. It showcases flooded areas such as rivers, lakes, vegetation, urban and rural areas, and common causes of flooding. This dataset provides critical information for developing strategies to mitigate and respond to future flooding events.
  
@@ -72,7 +72,7 @@ Flooding can cause extensive damage to people, ecosystems, and economies, making
 |   Img (9)  |     Zambia    |  25-03-2017  |  06-04-2017  |  06-04-2017  |
 
 
-## :speech_balloon: Requirements
+## Requirements
 
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-376/) 
 [![Pytorch 1.7.1](https://img.shields.io/badge/Pytorch-1.7.1-blue.svg)](https://pytorch.org/get-started/previous-versions/)
@@ -83,21 +83,16 @@ Flooding can cause extensive damage to people, ecosystems, and economies, making
 [![Wandb 0.13.10](https://img.shields.io/badge/Wandb-0.13.10-blue.svg)](https://pypi.org/project/wandb/)
 
 
-## :speech_balloon: Network Architecture
+## Our model
 An overview of the proposed DAM-Net. The feature maps of the pre-and post-event image pairs are extracted through a Siamese structure and pre-trained remote sensing. 
 ![Overall](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/overall.png)
 
-
- ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the testing set of SIGFloods Dataset</span>
  
-### :point_right: Quantitative Results
+## Quantitative Results
 ![image-QuantitativeResult](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/table-test.jpg)
 
-### :point_right: Qualitative Results
-A visual comparison of flood detection results in the Iran dataset. The first three images, (a), (b), and (c), represent the pre-flood image,
-post-flood image, and binary ground truth, respectively. The subsequent images show a comparison of flood detection using various
-methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM, (h) Siam-Nested-Unet, (i) ResNet50-IMP,
-(j) ResNet50-RSP, (k) Swin-T-IMP, (l) ViTAEv2-IMP, (m) Swin-T-RSP, and (n) our proposed DAM-Net method.
+## Qualitative Results
+A visual comparison of flood detection results in the Iran dataset. The first three images, (a), (b), and (c), represent the pre-flood image, post-flood image, and binary ground truth, respectively. The subsequent images show a comparison of flood detection using various methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM, (h) Siam-Nested-Unet, (i) ResNet50-IMP, (j) ResNet50-RSP, (k) Swin-T-IMP, (l) ViTAEv2-IMP, (m) Swin-T-RSP, and (n) our proposed DAM-Net method.
 ![image-QualitativeResult](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Iran-results.png)
 
 
@@ -185,15 +180,15 @@ The full train and test code will be released soon. You can download our novel p
 ```
 
   
-### Contact Information
+## Contact Information
 
 If you have any questions or would like to collaborate, please reach out to me at tamersaleh@whu.edu.cn or feel free to make issues.
 
-### License
+## License
 The code and datasets are released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
 
 
-## :speech_balloon: Acknowledgments
+## Acknowledgment
 
 Appreciate the work from the following repositories:
 
@@ -201,7 +196,7 @@ Appreciate the work from the following repositories:
 - [SNUNet-CD](https://github.com/RSCD-Lab/Siam-NestedUNet)
 - [BIT-CD](https://github.com/justchenhao/BIT_CD)
 
-## :speech_balloon: Other related links
+## Other related links
 - [ASF-Dataset](https://search.asf.alaska.edu/)
 - [Sentinel-Hub](https://scihub.copernicus.eu/)
 - [SNAP Toolbox](http://step.esa.int/main/download/)
