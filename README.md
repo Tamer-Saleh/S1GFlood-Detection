@@ -124,15 +124,15 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 """
 For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect the following structure: 
 ├————train/
-|      ├———Pre/                                  #`Pre`: Images of Time 1 before the flood event
+|      ├———Pre/                                  Images of Time 1 before the flood event
             ├———<region><year><XY>.png
             ...
             ├———<region><year><XY>.png
-|      ├———Post/                                 #`Post`:Images of Time 2 after the flood event
+|      ├———Post/                                 Images of Time 2 after the flood event
             ├———<region><year><XY>.png
             ...
             ├———<region><year><XY>.png            
-|      ├———GT/                                   #`GT`: Ground truth labels
+|      ├———GT/                                   Ground truth labels
             ├———<region><year><XY>.png 
             ...
             ├———<region><year><XY>.png 
