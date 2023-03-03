@@ -98,18 +98,16 @@ A visual comparison of flood detection results in the Iran dataset. The first th
 
 ### 🔭 Baselines <a name="baselines"></a>
 
-:open_book:	:open_book:	 :open_book:	:open_book:	 View paper [`here`](https://arxiv.org/abs/2204.08454).
-
-:open_book:	:open_book:	 :open_book:	:open_book: DTCDSCN [[paper](https://ieeexplore.ieee.org/abstract/document/9311793)]
-- [x] UNet [[paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W3-2020/215/2020/)]
-- [x] FC-Siam [[paper](https://ieeexplore.ieee.org/abstract/document/8451652)]
-- [x] SNUNet–ECAM [[paper](https://ieeexplore.ieee.org/abstract/document/9355573)]
-- [x] Siam-Nested-UNet [[paper](https://dl.acm.org/doi/abs/10.1145/3437802.3437810)]
-- [x] ResNet50-IMP [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
-- [x] ResNet50-RSP [[paper](https://ieeexplore.ieee.org/abstract/document/9782149)]
-- [x] Swin–T-RSP [[paper](https://ieeexplore.ieee.org/abstract/document/9782149)]
-- [x] Swin-T-IMP [[paper](https://ieeexplore.ieee.org/abstract/document/9736956)]
-- [x] ViTAEv2 [[paper](https://arxiv.org/pdf/2202.10108.pdf)]
+:open_book:	:open_book:	 :open_book: DTCDSCN [[here](https://ieeexplore.ieee.org/abstract/document/9311793)]
+:open_book:	:open_book:	 :open_book: UNet [[here](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W3-2020/215/2020/)]
+:open_book:	:open_book:	 :open_book: FC-Siam [[here](https://ieeexplore.ieee.org/abstract/document/8451652)]
+:open_book:	:open_book:	 :open_book: SNUNet–ECAM [[here](https://ieeexplore.ieee.org/abstract/document/9355573)]
+:open_book:	:open_book:	 :open_book: Siam-Nested-UNet [[here](https://dl.acm.org/doi/abs/10.1145/3437802.3437810)]
+:open_book:	:open_book:	 :open_book: ResNet50-IMP [[here](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+:open_book:	:open_book:	 :open_book: ResNet50-RSP [[here](https://ieeexplore.ieee.org/abstract/document/9782149)]
+:open_book:	:open_book:	 :open_book: Swin–T-RSP [[here](https://ieeexplore.ieee.org/abstract/document/9782149)]
+:open_book:	:open_book:	 :open_book: Swin-T-IMP [[here](https://ieeexplore.ieee.org/abstract/document/9736956)]
+:open_book:	:open_book:	 :open_book: ViTAEv2 [[here](https://arxiv.org/pdf/2202.10108.pdf)]
 
 
 ## :speech_balloon: <span id="jump">Dataset Preparation</span>
