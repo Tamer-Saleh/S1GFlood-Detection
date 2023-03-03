@@ -11,9 +11,6 @@
 [![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
 
 
-The full train and test code will be released soon. The S1GFloods dataset is available. 
-
-
 ## Updates
 | :zap:         | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
 |---------------|:------------------------|
@@ -166,14 +163,9 @@ For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect th
             ├———<region><year><XY>.png 
 ```
 
-
-
-
-
-
 ### :truck: Datasets <a name="dataset"></a>
 
-You can download our novel public S1GFloods dataset through the following link:
+The full train and test code will be released soon. You can download our novel public S1GFloods dataset through the following link:
 
 - [x] [S1GFloods][baidu drive](https://pan.baidu.com/s/1PCRlwbumZXE480BGT96l3Q) Passward: (bkg7)
 
