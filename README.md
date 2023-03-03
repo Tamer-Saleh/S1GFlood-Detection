@@ -156,7 +156,10 @@ You can download our novel public S1GFloods dataset through the following link:
   
 ### Contact Information
 
-If you have any questions or would like to collaborate, please reach out to me at tamersaleh@whu.edu.cn or on GitHub at @Tamer-Saleh.
+If you have any questions or would like to collaborate, please reach out to me at tamersaleh@whu.edu.cn or feel free to make issues.
+
+### License
+The code and datasets are released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
 
 
 ## :speech_balloon: References
