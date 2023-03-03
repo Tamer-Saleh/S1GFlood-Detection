@@ -2,9 +2,7 @@
   <b>DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers</b><br>
 </h1>
 
-![](https://img.shields.io/badge/author-Tamer,Saleh-brightgreen)![](https://img.shields.io/badge/email-504006937@qq.com-blue)
-
-[![Author](https://img.shields.io/badge/Tamer,Saleh-blue.svg)](https://www.bu.edu.eg/staff/tamermohamed3) 
+[![Author](https://img.shields.io/badge/Tamer Saleh-blue.svg)](https://www.bu.edu.eg/staff/tamermohamed3) 
 
 
 [`Tamer Saleh`](https://www.bu.edu.eg/staff/tamermohamed3), [`Gui-Song Xia`](http://www.captain-whu.com/xia_En.html), [`Shimaa Holail Researchgate`](https://www.researchgate.net/profile/Shimaa-Holail)[`Shimaa Holail Linkedin`](https://www.linkedin.com/in/shimaaholail/), [`Xingxing Weng`], and [`Chen Hao`]
