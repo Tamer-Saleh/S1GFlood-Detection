@@ -3,8 +3,7 @@
 </h1>
 
 [![Author](https://img.shields.io/badge/Tamer-Saleh-blue.svg)](https://www.bu.edu.eg/staff/tamermohamed3) 
-[![Author](https://img.shields.io/badge/Gui-Song-Xia-blue.svg)](http://www.captain-whu.com/xia_En.html) 
-[![Author](https://img.shields.io/badge/Shimaa-Holail-blue.svg)](https://www.researchgate.net/profile/Shimaa-Holail) 
+[![Author](https://img.shields.io/badge/Gui-Song, Xia-blue.svg)](http://www.captain-whu.com/xia_En.html) 
 [![Author](https://img.shields.io/badge/Shimaa-Holail-blue.svg)](https://www.linkedin.com/in/shimaaholail/) 
 [![Author](https://img.shields.io/badge/Xingxing-Weng-blue.svg)]() 
 [![Author](https://img.shields.io/badge/Chen-Hao-blue.svg)]() 
