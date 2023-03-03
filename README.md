@@ -11,7 +11,7 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 | :zap:         | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
 |---------------|:------------------------|
 
-The following animation shows SAR images before and after the event and a sample of flooded area findings for a rural area in Iran that was hit by a flood in March 2019. The right figure provides an enlarged visual of a 1 km x 1 km area within the larger area as in the yellow box, showing the size of the affected buildings from the flood.
+The following animation shows SAR images before and after the event and a sample of flooded area findings for a rural area in Iran that was hit by a flood in March 2019. The right figure provides an enlarged visual of a 1 km x 1 km area within the larger area as in the yellow box, showing the size of the affected buildings from the flood by our model.
 
  <div align="left">
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="600" height="400" />
