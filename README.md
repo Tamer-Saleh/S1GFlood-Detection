@@ -84,6 +84,7 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 
 - Python 3.7
 - Pytorch 1.7
+- SNAP 
 
 Please see `requirements.txt` for all the other requirements.
 
@@ -102,64 +103,59 @@ Please see `requirements.txt` for all the other requirements.
 - [x] ViTAEv2 [[paper](https://arxiv.org/pdf/2202.10108.pdf)]
 
 
-
-</div>
-</details>
-
-
 ## :speech_balloon: <span id="jump">Dataset Preparation</span>
 
 ### :point_right: Data Structure
 
 ```
 """
-EGY-BCD dataset with pixel-level binary labels；
+S1GFloods dataset with pixel-level binary labels；
 ├————train
-|      ├———A  
-|      ├———B
-|      ├———label
+|      ├———Pre  
+|      ├———Post
+|      ├———GT
 |
 ├————val
-|      ├———A  
-|      ├———B
-|      ├———label
+|      ├———Pre  
+|      ├———Post
+|      ├———GT
 |
 ├————test
-|      ├———A  
-|      ├———B
-|      ├———label
+|      ├———Pre  
+|      ├———Post
+|      ├———GT
 """
 ```
 
-`A`: Images of Time1;
-`B`:Images of Time2;
-`label`: Ground Truth;
-`each file contains the image names (XXXX.png)`
+`Pre`: Images of Time 1 before the flood event;
+`Post`:Images of Time 2 after the flood event;
+`GT`: Ground truth labels;
+`each file contains the image names (<region><year><XY>.png)`
 
 
 ### :truck: Datasets <a name="dataset"></a>
 
-You can download our novel public EGY-BCD dataset through the following link:
+You can download our novel public S1GFloods dataset through the following link:
 
-- [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (ef21)
+- [x] [S1GFloods][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (....)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
 ```
 @ARTICLE{shimaabuilding2023,
-  Author = {S. Holail, T. Saleh, X. Xiao, and D. Li},
-  Title = {AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery},
-  Journal = {IEEE Geoscience and Remote Sensing Letters},
+  Author = {T. Saleh, G-S Xia, S. Holail, X. Weng, and C. Hao},
+  Title = {DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers},
+  Journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
   Year = {2023},
   volume={},
   number={},
-  pages={1-5}
+  pages={1-21}
   }
 ```
   
 ### Contact Information
-If you have any question about EGY-BCD dataset, please contact shimaaholail@whu.edu.cn
+If you have any question about S1GFloods dataset, please contact tamersaleh@whu.edu.cn
 
 
 ## :speech_balloon: References
@@ -167,9 +163,12 @@ If you have any question about EGY-BCD dataset, please contact shimaaholail@whu.
 Appreciate the work from the following repositories:
 
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
-- [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
-- [likyoo/PRCV2021_ChangeDetection_Top3](https://github.com/likyoo/PRCV2021_ChangeDetection_Top3)
-- [likyoo/Pytorch-UNet](https://github.com/likyoo/Pytorch-UNet)
 - [angup143/disaster_mapping](https://github.com/angup143/disaster_mapping/tree/5bab37700950bb9b5e6af9bbe41a6ab66645bf58)
+
+
+[](https://search.asf.alaska.edu/)
+[](https://scihub.copernicus.eu/)
+[SNAP Toolbox](http://step.esa.int/main/download/)
+
 
 
