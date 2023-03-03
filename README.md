@@ -83,10 +83,12 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 ## :speech_balloon: Requirements
 
 - Python 3.7
-- Pytorch 1.7
-- SNAP 
-
-Please see `requirements.txt` for all the other requirements.
+- Pytorch 1.7.1
+- torchvision 0.8.2
+- opencv 4.5.5
+- CUDA 10.1 
+- Python-SNAPPY 8.0
+- wandb 0.12.17
 
 
 ### 🔭 Baselines <a name="baselines"></a>
