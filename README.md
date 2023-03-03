@@ -4,7 +4,7 @@
 
 [`Tamer Saleh`](https://www.bu.edu.eg/staff/tamermohamed3), [`Gui-Song Xia`](http://www.captain-whu.com/xia_En.html), [`Shimaa Holail Researchgate`](https://www.researchgate.net/profile/Shimaa-Holail)[`Shimaa Holail Linkedin`](https://www.linkedin.com/in/shimaaholail/), [`Xingxing Weng`], and [`Chen Hao`]
 
-The train and test code will be released soon. The S1GFloods dataset is available. 
+The full train and test code will be released soon. The S1GFloods dataset is available. 
 
 
 ## Updates
@@ -116,7 +116,6 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 
 ```
 """
-
 For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect the following structure: 
 ├————train
 |      ├———Pre  
@@ -179,9 +178,9 @@ Appreciate the work from the following repositories:
 - [BIT-CD](https://github.com/justchenhao/BIT_CD)
 
 ## :speech_balloon: Other related links
-[ASF-Dataset](https://search.asf.alaska.edu/)
-[Sentinel-Hub](https://scihub.copernicus.eu/)
-[SNAP Toolbox](http://step.esa.int/main/download/)
+- [ASF-Dataset](https://search.asf.alaska.edu/)
+- [Sentinel-Hub](https://scihub.copernicus.eu/)
+- [SNAP Toolbox](http://step.esa.int/main/download/)
 
 
 
