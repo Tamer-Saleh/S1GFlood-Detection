@@ -12,7 +12,7 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 |---------------|:------------------------|
 
  <div align="left">
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="600" height="200" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="600" height="400" />
   <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="200" height="100" />
 </div>
 
