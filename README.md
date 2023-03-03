@@ -4,10 +4,10 @@
 
 
 [![Author](https://img.shields.io/badge/Tamer-Saleh-orange.svg)](https://www.bu.edu.eg/staff/tamermohamed3) 
-[![Author](https://img.shields.io/badge/GuiSong-Xia-blue.svg)](http://www.captain-whu.com/xia_En.html) 
-[![Author](https://img.shields.io/badge/Shimaa-Holail-blue.svg)](https://www.linkedin.com/in/shimaaholail/) 
-[![Author](https://img.shields.io/badge/Xingxing-Weng-blue.svg)]() 
-[![Author](https://img.shields.io/badge/Chen-Hao-blue.svg)]() 
+[![Author](https://img.shields.io/badge/GuiSong-Xia-orange.svg)](http://www.captain-whu.com/xia_En.html) 
+[![Author](https://img.shields.io/badge/Shimaa-Holail-orange.svg)](https://www.linkedin.com/in/shimaaholail/) 
+[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Chen-Hao-orange.svg)]() 
 
 
 The full train and test code will be released soon. The S1GFloods dataset is available. 
