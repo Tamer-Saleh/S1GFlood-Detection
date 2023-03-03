@@ -11,9 +11,10 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 | :zap:         | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
 |---------------|:------------------------|
 
- <div align="center">
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="1000" height="590" />
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="800" height="800" />
+ <div align="left">
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="800" height="400" />
+  align="right">
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="200" height="200" />
 </div>
 
 ## :speech_balloon: S1GFloods Dataset Description 
