@@ -168,7 +168,7 @@ If you have any questions or would like to collaborate, please reach out to me a
 The code and datasets are released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
 
 
-## :speech_balloon: References
+## :speech_balloon: Acknowledgments
 
 Appreciate the work from the following repositories:
 
