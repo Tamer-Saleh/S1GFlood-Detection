@@ -130,7 +130,7 @@ S1GFloods dataset with pixel-level binary labels；
 `Pre`: Images of Time 1 before the flood event;
 `Post`:Images of Time 2 after the flood event;
 `GT`: Ground truth labels;
-`each file contains the image names (<region><year><XY>.png)`
+`each file contains the image names`: <region><year><XY>.png
 
 
 ### :truck: Datasets <a name="dataset"></a>
