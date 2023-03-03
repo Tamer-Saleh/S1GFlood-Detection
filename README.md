@@ -165,6 +165,24 @@ You can download our novel public S1GFloods dataset through the following link:
   pages={1-21}
   }
 ```
+
+```bibtex
+@article{DBLP:journals/corr/abs-2208-03566,
+  author    = {David Mac{\^{e}}do},
+  title     = {Towards Robust Deep Learning using Entropic Losses},
+  journal   = {CoRR},
+  volume    = {abs/2208.03566},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2208.03566},
+  doi       = {10.48550/arXiv.2208.03566},
+  eprinttype = {arXiv},
+  eprint    = {2208.03566},
+  timestamp = {Wed, 10 Aug 2022 14:49:54 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2208-03566.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
   
 ### Contact Information
 
