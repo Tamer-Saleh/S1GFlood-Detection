@@ -8,7 +8,6 @@
 [![Author](https://img.shields.io/badge/Xingxing-Weng-blue.svg)]() 
 [![Author](https://img.shields.io/badge/Chen-Hao-blue.svg)]() 
 
-[`Tamer Saleh`](https://www.bu.edu.eg/staff/tamermohamed3), [`Gui-Song Xia`](http://www.captain-whu.com/xia_En.html), [`Shimaa Holail Researchgate`](https://www.researchgate.net/profile/Shimaa-Holail)[`Shimaa Holail Linkedin`](https://www.linkedin.com/in/shimaaholail/), [`Xingxing Weng`], and [`Chen Hao`]
 
 The full train and test code will be released soon. The S1GFloods dataset is available. 
 
