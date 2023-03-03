@@ -114,7 +114,7 @@ A visual comparison of flood detection results in the Iran dataset. The first th
 
 ### :point_right: Data Structure
 
-```bibtex
+```yaml
 For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect the following structure: 
 ├————train/
 |      ├———Pre/                                  Images of Time 1 before the flood event
