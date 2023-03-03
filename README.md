@@ -125,25 +125,51 @@ methods, including (d) Unet, (e) FC-Siam-Conc, (f) FC-Siam-Diff, (g) SNUNet-ECAM
 For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect the following structure: 
 ├————train
 |      ├———Pre  
+            ├———<region><year><XY>.png
+            ...
+            ├———<region><year><XY>.png
 |      ├———Post
+            ├———<region><year><XY>.png
+            ...
+            ├———<region><year><XY>.png            
 |      ├———GT
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |
 ├————val
 |      ├———Pre  
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |      ├———Post
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |      ├———GT
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |
 ├————test
 |      ├———Pre  
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |      ├———Post
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 |      ├———GT
+            ├———<region><year><XY>.png 
+            ...
+            ├———<region><year><XY>.png 
 """
 ```
 
 `Pre`: Images of Time 1 before the flood event;
 `Post`:Images of Time 2 after the flood event;
 `GT`: Ground truth labels;
-`Each file contains the image names: <region><year><XY>.png`
 
 
 ### :truck: Datasets <a name="dataset"></a>
