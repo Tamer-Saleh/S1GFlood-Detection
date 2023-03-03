@@ -154,7 +154,7 @@ You can download our novel public S1GFloods dataset through the following link:
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
-```
+```bibtex
 @ARTICLE{shimaabuilding2023,
   Author = {T. Saleh, G-S Xia, S. Holail, X. Weng, and C. Hao},
   Title = {DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers},
@@ -164,23 +164,6 @@ You can download our novel public S1GFloods dataset through the following link:
   number={},
   pages={1-21}
   }
-```
-
-```bibtex
-@article{DBLP:journals/corr/abs-2208-03566,
-  author    = {David Mac{\^{e}}do},
-  title     = {Towards Robust Deep Learning using Entropic Losses},
-  journal   = {CoRR},
-  volume    = {abs/2208.03566},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2208.03566},
-  doi       = {10.48550/arXiv.2208.03566},
-  eprinttype = {arXiv},
-  eprint    = {2208.03566},
-  timestamp = {Wed, 10 Aug 2022 14:49:54 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2208-03566.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
 ```
 
   
