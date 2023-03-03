@@ -12,8 +12,8 @@ The train and test code will be released soon. The S1GFloods dataset is availabl
 |---------------|:------------------------|
 
  <div align="center">
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Bangladesh-Img.gif" width="200" height="300" />
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/Iran-Img.gif" width="100" height="100" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="200" height="300" />
+  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="100" height="100" />
 </div>
 
 ## :speech_balloon: S1GFloods Dataset Description 
