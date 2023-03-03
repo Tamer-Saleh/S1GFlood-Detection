@@ -12,7 +12,7 @@
 
 
 ## Updates
-| :zap:         | DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
+| :zap:         | March, 2023: DAM-Net has been submitted for publication at ISPRS Journal of Photogrammetry and Remote Sensing. |
 |---------------|:------------------------|
 
 
