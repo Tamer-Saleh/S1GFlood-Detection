@@ -90,11 +90,18 @@ Please see `requirements.txt` for all the other requirements.
 
 ### 🔭 Baselines <a name="baselines"></a>
 
-- [x] Linknet [[paper](https://arxiv.org/abs/1707.03718)]
-- [x] UPerNet [[paper](https://arxiv.org/abs/1807.10221)]
-- [x] DeepLabV3 [[paper](https://arxiv.org/abs/1706.05587)]
-- [x] Unet [[paper](https://arxiv.org/abs/1505.04597)]
-- [x] Unet++ [[paper](https://arxiv.org/pdf/1807.10165.pdf)]
+- [x] DTCDSCN [[paper](https://ieeexplore.ieee.org/abstract/document/9311793)]
+- [x] UNet [[paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W3-2020/215/2020/)]
+- [x] FC-Siam [[paper](https://ieeexplore.ieee.org/abstract/document/8451652)]
+- [x] SNUNet–ECAM [[paper](https://ieeexplore.ieee.org/abstract/document/9355573)]
+- [x] Siam-Nested-UNet [[paper](https://dl.acm.org/doi/abs/10.1145/3437802.3437810)]
+- [x] ResNet50-IMP [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+- [x] ResNet50-RSP [[paper](https://ieeexplore.ieee.org/abstract/document/9782149)]
+- [x] Swin–T-RSP [[paper](https://ieeexplore.ieee.org/abstract/document/9782149)]
+- [x] Swin-T-IMP [[paper](https://ieeexplore.ieee.org/abstract/document/9736956)]
+- [x] ViTAEv2 [[paper](https://arxiv.org/pdf/2202.10108.pdf)]
+
+
 
 
 #### Encoders <a name="encoders"></a>
