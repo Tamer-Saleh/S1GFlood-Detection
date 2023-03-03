@@ -98,7 +98,9 @@ A visual comparison of flood detection results in the Iran dataset. The first th
 
 ### 🔭 Baselines <a name="baselines"></a>
 
-- [x] DTCDSCN [[paper](https://ieeexplore.ieee.org/abstract/document/9311793)]
+:open_book:	:open_book:	 :open_book:	:open_book:	 View paper [`here`](https://arxiv.org/abs/2204.08454).
+
+:open_book:	:open_book:	 :open_book:	:open_book: DTCDSCN [[paper](https://ieeexplore.ieee.org/abstract/document/9311793)]
 - [x] UNet [[paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W3-2020/215/2020/)]
 - [x] FC-Siam [[paper](https://ieeexplore.ieee.org/abstract/document/8451652)]
 - [x] SNUNet–ECAM [[paper](https://ieeexplore.ieee.org/abstract/document/9355573)]
