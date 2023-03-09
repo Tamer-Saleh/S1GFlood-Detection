@@ -163,7 +163,7 @@ For S1GFloods dataset, clip the images to 256 × 256 patches. Please, respect th
 
 The full train and test code will be released soon. You can download our novel public S1GFloods dataset through the following link:
 
-- [x] [S1GFloods][baidu drive](https://pan.baidu.com/s/1PCRlwbumZXE480BGT96l3Q) Passward: (bkg7)
+- [x] [S1GFloods][baidu drive](https://pan.baidu.com/s/1PCRlwbumZXE480BGT96l3Q) Passward: (bkg)
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
